@@ -1,0 +1,1 @@
+web:gunicorn newrest.wsgi --log-file -
